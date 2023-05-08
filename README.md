@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-  <meta charset="utf-8">
 <html lang="en">
 <head>
   <title>Capstone Final</title>
+    <meta charset="UTF-8">
 </head>
 <body>
 <header>
@@ -17,10 +17,10 @@
 <section>
   <h2>Favorite Foods</h2>
 <ul>
-    <li><Pizza></li>
-    <li><Meatloaf</li>
-    <li><Peanutbutter Cups</li>
-    <li><Salad></li>
+    <li>Pizza</li>
+    <li>Meatloaf</li>
+    <li>Peanut Butter Cups</li>
+    <li>Salad</li>
 </ul>
 </section>
 <section>
