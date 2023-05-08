@@ -1,10 +1,9 @@
-# lorilbousson
 <!DOCTYPE html>
 <html lang="en">
-  <title>Capstone Final</title>
 <head>
-  <meta charset="utf-8">
+  <title>Capstone Final</title>
 </head>
+<body>
 <header>
   <h1>Lori L Bousson</h1>
 <nav>
@@ -33,16 +32,15 @@
   <h2>More About Me</h2>
       <details open>
   <summary>My Childhood</summary>
-  <p>I grew up on a farm south of Grinnell, Iowa but have lived in Ames, Iowa three-forths of my life. I miss the farm.</p>
+  <p>I grew up on a farm south of Grinnell, Iowa but have lived in Ames, Iowa 3/4 of my life. I miss life on the farm.</p>
     </details>
 </section>
 <footer>
 <p>
-   <img scr="http://www.intro-webdesign.com/images/newlogo.png" alt="new logo">
+   <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="new logo">
    This page was created by Lori L Bousson &amp; Colleen van Lent. To learn more about web design, visit
    <a href="http://www.intro-webdesign.com">Intro to Web Design</a>.
 </p>
 </footer>
             </body>
           </html>
-            
